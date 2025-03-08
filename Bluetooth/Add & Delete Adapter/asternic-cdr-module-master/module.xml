@@ -1,0 +1,21 @@
+<module>
+    <rawname>adapters</rawname>
+    <name>Add/Delete Adapter</name>
+    <version></version>
+        <publisher>ZY Developers</publisher>
+    <type>tool</type>
+    <category>Bluetooth</category>
+    <embedcategory>Advanced</embedcategory>
+    <menuitems>
+        <adapters>Add/Delete Adapter</adapters>
+    </menuitems>
+    <description></description>
+    <changelog>
+
+    </changelog>
+        <depends>
+                <module></module>
+        </depends>
+    <location>zainulabidden43@gmail.com</location>
+    <md5sum>0</md5sum>
+</module>
